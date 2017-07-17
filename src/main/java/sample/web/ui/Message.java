@@ -13,9 +13,9 @@
 
 package sample.web.ui;
 
-import java.util.Calendar;
-
 import org.hibernate.validator.constraints.NotEmpty;
+
+import java.util.Calendar;
 
 /**
  * @author Rob Winch
