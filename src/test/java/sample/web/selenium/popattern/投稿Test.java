@@ -10,6 +10,9 @@ import java.util.concurrent.TimeUnit;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
+/**
+ * Created by nabedge
+ */
 public class 投稿Test extends TestBase {
 
     @Test

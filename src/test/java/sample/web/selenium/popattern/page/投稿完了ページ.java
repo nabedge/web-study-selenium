@@ -3,6 +3,9 @@ package sample.web.selenium.popattern.page;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
+/**
+ * Created by nabedge
+ */
 public class 投稿完了ページ {
 
     private WebDriver driver;

@@ -79,5 +79,4 @@ public class TestBase {
             this.driver.quit();
         }
     }
-
 }
