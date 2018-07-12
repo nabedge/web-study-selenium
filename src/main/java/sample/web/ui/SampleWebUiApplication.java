@@ -27,9 +27,6 @@ public class SampleWebUiApplication {
 
     private static ConfigurableApplicationContext context;
 
-//    private SampleWebUiApplication() {
-//    }
-
 	@Bean
 	public MessageRepository messageRepository() {
 		return new InMemoryMessageRepository();
